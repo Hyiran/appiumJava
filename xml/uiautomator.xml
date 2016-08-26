@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCase name="uiautomator">
+	<param name="Timex" value="130" /> <!--时间选择button-->
+	<param name="Timey" value="846" /> <!--时间选择button-->
+	<param name="Todayx" value="202" /> <!--今天选择button-->
+	<param name="Todayy" value="532" /> <!--今天选择button-->
+	<param name="bermorgenx" value="639" /> <!--后天选择button-->
+	<param name="bermorgeny" value="545" /> <!--后天选择button-->
+	<param name="Bigbermorgenx" value="870" /> <!--大后天选择button-->
+	<param name="Bigbermorgeny" value="421" /> <!--大后天选择button-->	
+    <param name="CancelOrderx" value="931" /> <!--取消订单button-->	
+    <param name="CancelOrdery" value="772" /> <!--取消订单button-->
+    <param name="CancelOrderx2" value="927" /> <!--取消订单button-->	
+    <param name="CancelOrdery2" value="855" /> <!--取消订单button-->
+    <param name="localxy" value="/html/body/div[2]/div/div[2]/main/div/div[1]/ul[2]/li[4]/span[2]" /> <!--取消订单button-->
+    <param name="delx" value="941" /> <!--删除订单button-->	
+    <param name="dely" value="770" /> <!--删除订单button-->	
+    <param name="delx2" value="937" /> <!--删除订单button-->	
+    <param name="dely2" value="854" /> <!--删除订单button-->	
+    <param name="Todayx1" value="191" /> <!--双周保洁今天选择button-->
+	<param name="Todayy1" value="890" /> <!--双周保洁天选择button-->
+	<param name="bermorgenx1" value="659" /> <!--双周保洁后天选择button-->
+	<param name="bermorgeny1" value="881" /> <!--双周保洁后天选择button-->
+	<param name="Bigbermorgenx1" value="860" /> <!--双周保洁大后天选择button-->
+	<param name="Bigbermorgeny1" value="889" /> <!--双周保洁大后天选择button-->
+	<param name="time1x" value="177" /> <!--双周保洁大后天时间段1选择button-->
+	<param name="time1y" value="1029" /> <!--双周保洁大后天时间段1选择button-->
+	<param name="auntx" value="1009" /> <!--首次服务时间button-->	
+    <param name="aunty" value="525" /> <!--首次服务时间button-->	
+    <param name="CancelOrderx1" value="911" /> <!--取消订单button-->	
+    <param name="CancelOrdery1" value="842" /> <!--取消订单button-->	
+</TestCase>

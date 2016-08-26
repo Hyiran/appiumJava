@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="用户端下单测试">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<test name="单次保洁下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test001" />
+		</classes>
+	</test>
+	<test name="双周保洁下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test002" />
+		</classes>
+	</test>
+	<test name="周期保洁下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test003" />
+		</classes>
+	</test>
+	<test name="新居开荒下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test004" />
+		</classes>
+	</test>
+	<test name="厨房高温保洁下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test005" />
+		</classes>
+	</test>
+	<test name="卫生间保洁下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test006" />
+		</classes>
+	</test>
+	<test name="擦玻璃下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test007" />
+		</classes>
+	</test>
+	<test name="地面净化除菌下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test008" />
+		</classes>
+	</test>
+	<test name="窗纱更换下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test009" />
+		</classes>
+	</test>
+	<test name="灯具维修下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test010" />
+		</classes>
+	</test>
+	<test name="水电维修下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test011" />
+		</classes>
+	</test>
+	<test name="家具维修下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test012" />
+		</classes>
+	</test>
+	<test name="房屋维修下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test013" />
+		</classes>
+	</test>
+	<test name="微波炉清洗下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test014" />
+		</classes>
+	</test>
+	<test name="烤箱清洗下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test015" />
+		</classes>
+	</test>
+	<test name="饮水机清洗下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test016" />
+		</classes>
+	</test>
+	<test name="油烟机清洗下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test017" />
+		</classes>
+	</test>
+	<test name="空调清洗下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test018" />
+		</classes>
+	</test>
+	<test name="电冰箱清洗下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test019" />
+		</classes>
+	</test>
+	<test name="洗衣机清洗下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test020" />
+		</classes>
+	</test>
+	<test name="管道疏通下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test021" />
+		</classes>
+	</test>
+	<test name="马桶疏通下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test022" />
+		</classes>
+	</test>
+	<test name="杀虫下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test023" />
+		</classes>
+	</test>
+	<test name="皮质沙发保养下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test024" />
+		</classes>
+	</test>
+	<test name="木质家居保养下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test025" />
+		</classes>
+	</test>
+	<test name="地毯保养下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test026" />
+		</classes>
+	</test>
+	<test name="地板抛光打蜡下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test027" />
+		</classes>
+	</test>
+	<test name="石材结晶保养下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test028" />
+		</classes>
+	</test>
+	<test name="布艺沙发除螨下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test029" />
+		</classes>
+	</test>
+	<test name="床品除螨下单">
+		<classes>
+			<class name="com.appium.autotest.ui.testcase.Orders_test030" />
+		</classes>
+	</test>
+</suite> 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/activation.jar"/>
+	<classpathentry kind="lib" path="libs/ant.jar"/>
+	<classpathentry kind="lib" path="libs/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="libs/java-client-3.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/javax.mail.jar"/>
+	<classpathentry kind="lib" path="libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="libs/org.apache.log4j.jar"/>
+	<classpathentry kind="lib" path="libs/reportNG-1.1.5.jar"/>
+	<classpathentry kind="lib" path="libs/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="libs/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry kind="lib" path="libs/testng-6.9.11-20160301.075434-41.jar"/>
+	<classpathentry kind="lib" path="libs/velocity-dep-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
